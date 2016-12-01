@@ -1,0 +1,75 @@
+html{
+background-color: #ff8000;
+}
+@font-face {
+   font-family: myFirstFont;
+   src: url(AirstreamNF.otf);
+}
+@font-face {
+   font-family: myFont;
+   src: url(mayqueen.ttf);
+}
+
+h1{
+    font-family: myFirstFont;
+    font-size: 161px;
+    word-spacing: 55px;
+    letter-spacing: 10px;
+    margin-left: 74px;
+}
+
+ul{
+	border: 10px solid;
+    border-color: #4242EA;
+    /*border-width: 13px;*/
+    background-color: #4242EA;
+    margin-top: -130px;
+    font-size: 48px;
+    word-spacing: 40px;
+    /*margin-right: -29px;*/
+
+ }
+ ul a {
+ 	color: white;
+    text-decoration: none;
+ }
+ a:hover, a:active {
+     background-color: 99FF00;
+ }
+ #currentPg{
+    border-bottom: solid;
+    border-color: black;
+    background-color: grey;
+
+
+ }
+
+ p{
+ 	background-color: whitesmoke;
+    border: 3px solid;
+    margin-right: 911px;
+    margin-left: 33px;
+    margin-top: 84px;
+    text-indent: 24px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 20px;
+    padding-right: 11px;
+    line-height: 125%;
+
+ }
+ .intro{
+ 	color: white;
+    float: right;
+    margin-right: -562px;
+    margin-top: 97px;
+    font-size: x-small;
+ }
+
+footer 
+{	
+	text-align: center;
+    margin-top: -26px;
+}
+
+
